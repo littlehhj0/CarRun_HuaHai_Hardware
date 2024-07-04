@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CarRun_HuaHai_Hardware",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CarRun_HuaHai_Hardware::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CarRun_HuaHai_Hardware-Debug-66ed9baeab6ed7dedbcb.json",
+					"name" : "CarRun_HuaHai_Hardware",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/AURIX_PROJECT/CarRun_HuaHai_Hardware/cmake-build-debug",
+		"source" : "D:/AURIX_PROJECT/CarRun_HuaHai_Hardware"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
